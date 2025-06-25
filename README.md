@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikrunner&label=Profile%20views&color=0e75b6&style=flat" alt="ritikrunner" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikrunner" alt="ritikrunner" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ritiksharma024" target="blank"><img src="https://img.shields.io/twitter/follow/ritiksharma024?logo=twitter&style=for-the-badge" alt="ritiksharma024" /></a> </p>
 
 - 🔭 I’m currently working on **next.js project**
@@ -30,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikrunner&show_icons=true&locale=en&layout=compact" alt="ritikrunner" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritikrunner&show_icons=true&locale=en" alt="ritikrunner" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikrunner&" alt="ritikrunner" /></p>

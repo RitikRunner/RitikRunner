@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **kubernaties**
 
-- 👨‍💻 All of my projects are available at [euphonious-duckanoo-64ee04.netlify.app](euphonious-duckanoo-64ee04.netlify.app)
+- 👨‍💻 All of my projects are available at [euphonious-duckanoo-64ee04.netlify.app](euphonious-duckanoo-64ee04.netlify.app/)
 
 - 💬 Ask me about **next.js and other frontend stuff**
 
